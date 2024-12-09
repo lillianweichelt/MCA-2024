@@ -16,8 +16,8 @@ Compare the original and edited versions of the piece here:
 
 
 ## Week 3
-Task 1: Exporting my score which was created last week to MusicXML and MEI
-Task 2: TRendering the MEI file using Verovio in GitHub.
+### Task 1: Exporting my score which was created last week to MusicXML and MEI
+### Task 2: TRendering the MEI file using Verovio in GitHub.
 
 ## Week 4
 Task 1: Generating a jSymbolic analysis of the piece, selecting range, mean pitch, most common pitch class, last pitch, and most common rhythmic value.
