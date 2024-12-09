@@ -22,12 +22,9 @@ Compare the original and edited versions of the piece here:
 ### Task 1: Exporting my score which was created last week to MusicXML and MEI.
 Access the exported MusicXML and MEI files here:
 
-<img alt="MusicXML" src="/data/DawnTranscription.musicxml">
-
-<img alt="MEI" src="/data/DawnTranscription.mei">
-
-
 [MusicXML](/data/DawnTranscription.musicxml)
+
+[MEI](/data/DawnTranscription.mei)
 
 ### Task 2: Rendering the MEI file using Verovio in GitHub.
 Here is a screenshot of my rendered MEI file in Verovio:
