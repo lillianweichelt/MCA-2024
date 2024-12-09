@@ -26,6 +26,8 @@ Access the exported MusicXML and MEI files here:
 
 ### Task 2: Rendering the MEI file using Verovio in GitHub.
 
+<img title="a title" alt="Alt text" src="/data/Verovioweek3.png">
+
 ## Week 4
 Task 1: Generating a jSymbolic analysis of the piece, selecting range, mean pitch, most common pitch class, last pitch, and most common rhythmic value.
 Task 2: Using the Python notebook on the Moodle to generate a piano roll and pitch histogram of your piece using music21. 
