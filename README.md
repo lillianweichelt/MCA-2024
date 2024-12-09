@@ -12,11 +12,7 @@ When converting this piece to Musescore, the program added two extra staves for 
 See the original and edited versions of the piece here:
 
 <img title="a title" alt="Alt text" src="/data/DawnOriginal.jpg">
-
-[Original](https://github.com/user-attachments/files/18064955/DawnImport.pdf)
-
-[Edited](https://github.com/user-attachments/files/18064958/DawnTranscriptionFixed.pdf)
-
+<img title="a title" alt="Alt text" src="/data/DawnFixed.jpg">
 
 
 ## Week 3
