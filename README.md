@@ -148,7 +148,6 @@ One advantage to using a spectrogram analysis as opposed to a waveform analysis 
 
 ## Week 9
 ### Task 1: Extracting features of the 3 tracks by generating a spectrogram, a Mel Frequency Cepstral Coefficients, and a Chromagram.
-
 #### (The order of audio analyses from top to bottom are: Spectrogram, MFCC, Chronogram)
 
 #### Twilight - Denys Kyshchuk
@@ -158,7 +157,11 @@ One advantage to using a spectrogram analysis as opposed to a waveform analysis 
 
 #### Sunset - Podington Bear
 
+<img title="a title" alt="Alt text" src="data/Sunsetwk9.png">
+
 #### Sunrise - DubRahJah
+
+<img title="a title" alt="Alt text" src="data/sunrisewk9.png">
 
 ### Task 2: Computing and visualizing the raw features with histograms inside of Python.
 
