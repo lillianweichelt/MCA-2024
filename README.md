@@ -166,24 +166,24 @@ One advantage to using a spectrogram analysis as opposed to a waveform analysis 
 ### Task 2: Computing and visualizing the raw features with histograms inside of Python.
 #### Histograms computed from Spectrograms
 
-##### Twilight - Denys Kyshchuk
+#### Twilight - Denys Kyshchuk
 <img title="a title" alt="Alt text" src="data/TwilightSpectHist.png">
 
-##### Sunset - Podington Bear
+#### Sunset - Podington Bear
 <img title="a title" alt="Alt text" src="data/SunsetSpectHist.png">
 
-##### Sunrise - DubRahJah
+#### Sunrise - DubRahJah
 <img title="a title" alt="Alt text" src="data/SunriseSpectoHist.png">
 
 #### Histograms computed from MFCC's
 
-##### Twilight - Denys Kyshchuk
+#### Twilight - Denys Kyshchuk
 <img title="a title" alt="Alt text" src="data/TwilightSpectHist.png">
 
-##### Sunset - Podington Bear
+#### Sunset - Podington Bear
 <img title="a title" alt="Alt text" src="data/SunsetSpectHist.png">
 
-##### Sunrise - DubRahJah
+#### Sunrise - DubRahJah
 <img title="a title" alt="Alt text" src="data/SunriseSpectoHist.png">
 
 
