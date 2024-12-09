@@ -7,6 +7,7 @@ There are quite a few struggles with working with music. One main one is if your
 The musical score I have found for my theme is a somewhat poor scan of a piano book for the Pride and Prejudice soundtrack. There are shadows and some measures have been slightly cut off. With some musical knowledge, listening to the audio recordings and looking at the metadata will fill these gaps. As a simple example, the name of the composer in the musical score was cut off, so I looked at my metadata and was able to fill in this information.
 
 ## Week 2
+### Task: Identifying a piece of music related to my theme, then downloading it into Musescore and making corrections regarding rhythm and pitch.
 When converting this piece to Musescore, the program added two extra staves for voice even though it was not included in the original document. The original is just a piano piece. Aside from this, it did not include many things from the original. It ignored the duplets in the top line of measure 3, excluding the last two notes in the measure. In the same measure it also only kept the first two notes in the left hand. It also had an issue interpreting the duple in the left hand in measures 5 and 9, but it includes the correct pitches. More rhythm issues happen in measure two where the dotted quarter E is only notated as a quarter. This also happens to the D in the left hand in measure 8. Pitch issues occur mostly when notes are completely gone such as in measure 7 where it should be a series of eighth notes (e, c, e, g, b, c) and is instead five quarter notes that consist of only the first five notes of the measure. This also happens in measure 11 when instead of being written as three eighth notes (e, g#, e) it is written as just a quarter E. A rest is also not included in measure 8. Other than pitch and rhythm, the system notes, some ties, the title, and the composer are not included.
 
 Compare the original and edited versions of the piece here:
@@ -16,8 +17,8 @@ Compare the original and edited versions of the piece here:
 
 
 ## Week 3
-### Task 1: Exporting my score which was created last week to MusicXML and MEI
-### Task 2: TRendering the MEI file using Verovio in GitHub.
+### Task 1: Exporting my score which was created last week to MusicXML and MEI.
+### Task 2: Rendering the MEI file using Verovio in GitHub.
 
 ## Week 4
 Task 1: Generating a jSymbolic analysis of the piece, selecting range, mean pitch, most common pitch class, last pitch, and most common rhythmic value.
