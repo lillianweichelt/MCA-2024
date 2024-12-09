@@ -202,8 +202,9 @@ MFCC's measure the frequency spectrum of a sound signal. This makes them a took 
 
 
 ## Week 10
-Task 1: Generating a similarity matrix using the CSV files from the 3 tracks.
-Task 2: Transcribing the original track by converting the WAV file to MIDI using SonicVisualizer.
+### Task 1: Generating a similarity matrix using the CSV files from the 3 tracks.
+
+### Task 2: Transcribing the original track by converting the WAV file to MIDI using SonicVisualizer.
 
 
 
