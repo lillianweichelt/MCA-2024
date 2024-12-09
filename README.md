@@ -8,7 +8,10 @@ The musical score I have found for my theme is a somewhat poor scan of a piano b
 
 ## Week 2
 When converting this piece to Musescore, the program added two extra staves for voice even though it was not included in the original document. The original is just a piano piece. Aside from this, it did not include many things from the original. It ignored the duplets in the top line of measure 3, excluding the last two notes in the measure. In the same measure it also only kept the first two notes in the left hand. It also had an issue interpreting the duple in the left hand in measures 5 and 9, but it includes the correct pitches. More rhythm issues happen in measure two where the dotted quarter E is only notated as a quarter. This also happens to the D in the left hand in measure 8. Pitch issues occur mostly when notes are completely gone such as in measure 7 where it should be a series of eighth notes (e, c, e, g, b, c) and is instead five quarter notes that consist of only the first five notes of the measure. This also happens in measure 11 when instead of being written as three eighth notes (e, g#, e) it is written as just a quarter E. A rest is also not included in measure 8. Other than pitch and rhythm, the system notes, some ties, the title, and the composer are not included.
+See the original and edited versions of the pieces here:
+
 [DawnImport.pdf](https://github.com/user-attachments/files/18064955/DawnImport.pdf)
+
 [DawnTranscriptionFixed.pdf](https://github.com/user-attachments/files/18064958/DawnTranscriptionFixed.pdf)
 
 
