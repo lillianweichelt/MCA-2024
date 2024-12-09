@@ -217,6 +217,9 @@ For this task, I used the grouplab activity from week two.
 ## Recreated version of Beethoven Piano Sonata no. 1:
 <img title="a title" alt="Alt text" src="data/GrouplabSonicVisualizer.jpg">
 
+### Analysis:
+The version of this piece rendered from WAV to MIDI is almost completely inaccurate. It captures some of its rhythmic qualities but really quickly gets off and adds extra measures, rests, and cuts note values short. There are notes in the treble and bass when there should not be and the pitches are also almost entirely inaccurate. This conceptualization of the audio basically only provides a rough profile of what the piece sounds like. When listening to it back, hoever, it did sound somewhat similar which is very interesting because it looks, to me, almost nothing like the original.
+
 
 
 
