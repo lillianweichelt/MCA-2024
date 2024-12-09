@@ -188,13 +188,13 @@ One advantage to using a spectrogram analysis as opposed to a waveform analysis 
 #### Histograms computed from Chromagrams
 
 #### Twilight - Denys Kyshchuk
-<img title="a title" alt="Alt text" src="data/TwilightMelHist.png">
+<img title="a title" alt="Alt text" src="data/TwilightChromaHist.png">
 
 #### Sunset - Podington Bear
-<img title="a title" alt="Alt text" src="data/SunsetMelHist.png">
+<img title="a title" alt="Alt text" src="data/SunsetChromaHist.png">
 
 #### Sunrise - DubRahJah
-<img title="a title" alt="Alt text" src="data/SunriseMelHist.png">
+<img title="a title" alt="Alt text" src="data/SunriseChromaHist.png">
 
 
 ## Week 10
