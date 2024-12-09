@@ -105,6 +105,7 @@ Genre: Film score, Classical Music
 
 ### Task 2: Rendering the revised MEI metadata along with the score on an HTML page.
 Here are links to to my rendered metadata and my MEI file:
+
 [Verovio Link](https://lillianweichelt.github.io/MCA-2024/metaRAW.html)
 
 [MEI](/data/DawnTranscriptionMEI(2).mei)
