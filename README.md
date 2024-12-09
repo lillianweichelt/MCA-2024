@@ -148,7 +148,7 @@ One advantage to using a spectrogram analysis as opposed to a waveform analysis 
 
 ## Week 9
 ### Task 1: Extracting features of the 3 tracks by generating a spectrogram, a Mel Frequency Cepstral Coefficients, and a Chromagram.
-#### (The order of audio analyses from top to bottom are: Spectrogram, MFCC, Chronogram)
+#### (The order of audio analyses from top to bottom are: Spectrogram, MFCC, Chromagram)
 
 #### Twilight - Denys Kyshchuk
 
