@@ -50,6 +50,8 @@ Most Common Rhythmic Value: 0.5
 #### Piano Roll:
 <img title="a title" alt="Alt text" src="/data/week4pianoroll.png">
 
+![Piano Roll](/data/week4pianoroll.png)
+
 #### Scatter Plot:
 <img title="a title" alt="Alt text" src="/data/week4scatter plot1.png">
 
