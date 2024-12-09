@@ -45,7 +45,16 @@ Last Pitch: 84
 
 Most Common Rhythmic Value: 0.5
 
-### Task 2: Using the Python notebook on the Moodle to generate a piano roll and pitch histogram of your piece using music21. 
+### Task 2: Using the Python notebook on the Moodle to generate a piano roll, scatter plot, and pitch histogram of my piece using music21. 
+
+#### Piano Roll:
+
+
+#### Scatter Plot
+
+
+#### Pitch Histogram
+
 
 ## Week 5
 Task 1: Creating a metadata schema of at least 5 elements, including title, artist, publisher, and at least two others of my choice. 
