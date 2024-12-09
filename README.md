@@ -21,6 +21,9 @@ Compare the original and edited versions of the piece here:
 Access the exported MusicXML and MEI files here:
 
 <img title="a title" alt="Alt text" src="/data/DawnTranscription.musicxml">
+
+<img title="a title" alt="Alt text" src="/data/DawnTranscription.mei">
+
 ### Task 2: Rendering the MEI file using Verovio in GitHub.
 
 ## Week 4
