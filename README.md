@@ -48,9 +48,7 @@ Most Common Rhythmic Value: 0.5
 ### Task 2: Using the Python notebook on the Moodle to generate a piano roll, scatter plot, and pitch histogram of my piece using music21. 
 
 #### Piano Roll:
-<img title="a title" alt="Alt text" src="/data/week4pianoroll.png">
-
-![Piano Roll](/data/week4pianoroll.png)
+<img src="/data/week4pianoroll.png">
 
 #### Scatter Plot:
 <img title="a title" alt="Alt text" src="/data/week4scatter plot1.png">
