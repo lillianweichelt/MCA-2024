@@ -1,10 +1,13 @@
 # MCA 2024 Lillian Weichelt
 ## Week 1
-Title: Dawn, Project: Pride and Prejudice, Composer: Dario Marianelli, Time Period: 2005
 
-There are quite a few struggles with working with music. One main one is if your selected pieces are not in the public domain. This makes it almost inaccessible and causes one to look either for free transcriptions or scans. The issue with transcriptions is that it may not always be accurate. Even if the score is easily accessible, the composer could be using unfamiliar techniques that a program like Cusescore cannot understand or reproduce.
+### Task 1: Identifying a theme:
+For my theme I have selected pieces of music named after the time of day. I chose this because I really enjoy the piece 'Dawn' from the Pride and Prejudice Soundtrack and would like to see how different artists approach this topic. 
 
-The musical score I have found for my theme is a somewhat poor scan of a piano book for the Pride and Prejudice soundtrack. There are shadows and some measures have been slightly cut off. With some musical knowledge, listening to the audio recordings and looking at the metadata will fill these gaps. As a simple example, the name of the composer in the musical score was cut off, so I looked at my metadata and was able to fill in this information.
+### Task 2: Challenges to working with music and music-related data: 
+There are quite a few struggles that one can experience while working with music. One main one is if your selected pieces are not in the public domain. This makes it almost inaccessible and causes one to look either for free transcriptions or scans. The issue with transcriptions are that they may not always be accurate. Even if the score is easily accessible, the composer could be using unfamiliar techniques that a program like Musescore cannot understand or reproduce.
+
+The musical score I have found for the first piece surrounding my theme is a somewhat poor scan of a piano book for the Pride and Prejudice soundtrack. There are shadows and some measures have been slightly cut off. With some musical knowledge, listening to the audio recordings and looking at the metadata will fill in these gaps. As a simple example, the name of the composer in the musical score was cut off, so I looked for metadata related to the piece and was able to fill in this information.
 
 ## Week 2
 ### Task: Identifying a piece of music related to my theme, then downloading it into Musescore and making corrections regarding rhythm and pitch.
