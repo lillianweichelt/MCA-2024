@@ -54,7 +54,7 @@ Most Common Rhythmic Value: 0.5
 <img title="a title" alt="Alt text" src="/data/week4scatter plot1.png">
 
 #### Pitch Histogram:
-<img title="a title" alt="Alt text" src="/data/week4histogram.png">
+![Pitch Histogram](/data/week4histogram.png)
 
 ## Week 5
 Task 1: Creating a metadata schema of at least 5 elements, including title, artist, publisher, and at least two others of my choice. 
