@@ -36,9 +36,13 @@ Here is a screenshot of my rendered MEI file in Verovio:
 
 #### Here are the results:
 Range: 41
+
 Mean Pitch: 70
+
 Most Common Pitch Class: 4
+
 Last Pitch: 84
+
 Most Common Rhythmic Value: 0.5
 
 ### Task 2: Using the Python notebook on the Moodle to generate a piano roll and pitch histogram of your piece using music21. 
