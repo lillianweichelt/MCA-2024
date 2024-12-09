@@ -91,15 +91,23 @@ This week, I updated my MEI by adding genre specifications and licensing data.
 
 #### Here is all of the collected metadata:
 Title: Dawn
+
 Subtitle: From Pride and Prejudice (2005)
+
 Artist: Dario Marianelli
+
 Date: 2005
+
 Publisher: Hal Leonard Corporation
+
 Genre: Film score, Classical Music
 
+
 ### Task 2: Rendering the revised MEI metadata along with the score on an HTML page.
-Here is a link to my rendered metadata:
+Here are links to to my rendered metadata and my MEI file:
 [Verovio Link](https://lillianweichelt.github.io/MCA-2024/metaRAW.html)
+
+[MEI](/data/DawnTranscriptionMEI(2).mei)
 
 ## Week 8
 Task 1: Identifying and downloading 3 music tracks relating to my theme which are different in their sound and style to my original track and identifying and listing (in a table) the most important technical and non-technical metadata associated with each track. This metadata will include: Title, artist, composer, copyright info, genre, source, file/audio format, number of channels, sample rate, bits per second, and duration.
