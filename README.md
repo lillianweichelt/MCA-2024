@@ -143,12 +143,13 @@ Here is a graph comparing the data of my three tracks:
 
 
 
-### Task 2.2
+### Task 2.2:
 One advantage to using a spectrogram analysis as opposed to a waveform analysis is that it is far more dimensional than a waveform analysis. Spectrograms provide information about the changes of frequencies over time through their vertical lines and changes in amplitude through their colour. Waveforms simply provide visuals for change in amplitude over time. While listening to your audio and looking at a spectrogram simultaneously, you can see where musical motifs occur, and most of the time you can also see where each beat is hitting. This makes spectrograms a far more fruitful source of information about your specific audio than waveforms.
 
 ## Week 9
-Task 1: Extracting features of the 3 tracks by generating a spectrogram, a Mel Frequency Cepstral Coefficients, and a Chromagram.
-Task 2: Computing and visualizing the raw features with histograms inside of Python.
+### Task 1: Extracting features of the 3 tracks by generating a spectrogram, a Mel Frequency Cepstral Coefficients, and a Chromagram.
+
+### Task 2: Computing and visualizing the raw features with histograms inside of Python.
 
 ## Week 10
 Task 1: Generating a similarity matrix using the CSV files from the 3 tracks.
