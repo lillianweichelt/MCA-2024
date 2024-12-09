@@ -196,10 +196,14 @@ One advantage to using a spectrogram analysis as opposed to a waveform analysis 
 #### Sunrise - DubRahJah
 <img title="a title" alt="Alt text" src="data/SunriseChromaHist.png">
 
+### Task 2: Comparing MFCC Histograms
+MFCC's measure the frequency spectrum of a sound signal. This makes them a took that can give one insight into genre classification, instrumentation, and timbral qualities. All three of my tracks vary in genre, instrumentation, and timbre and this can be seen through these MFCC histograms. Twilight begins with lower peaks and then begins to peak much higher as the histograms progress. This may be because, throughout the track, the artist introduces more dominant spectral features with a rise in MIDI strings and a drum pad. Sunset has a similar instrumentation, with digital strings and a drum pad but utilizes much lower frequencies throughout the piece. This can be observed by how wide the histograms are. The artist also introduces higher-pitched further into the track which is why they get thinner throughout the progression of histograms. Sunrise has a wide mix of frequencies, it being sample-based and instrumented with extremely digital sounds. It clearly has the histograms with the highest peaks because it is very punchy and contains very dominant spectral features. 
+
+
 
 ## Week 10
 Task 1: Generating a similarity matrix using the CSV files from the 3 tracks.
-Task 2: Transcribing the original track by converting the WAV file to MIDI using sonic visualizer.
+Task 2: Transcribing the original track by converting the WAV file to MIDI using SonicVisualizer.
 
 
 
