@@ -61,19 +61,19 @@ Most Common Rhythmic Value: 0.5
 ### Task 1: Creating a metadata schema of at least 5 elements, including title, artist, publisher, and at least two others of my choice. 
 Here are my choices of metadata and what exactly they provide information for:
 
-#### Title:
+#### Title: 
 The name of the piece.
 
 #### Artist: 
 Depending on the piece, who wrote and/or performed the music.
 
-#### Publisher
+#### Publisher:
 Who or what company the piece of music is published by.
 
-#### Subtitle
+#### Subtitle:
 Additional information about the piece, usually provided by the composer or an editor.
 
-#### Date
+#### Date:
 The specific date the piece was either written or published.
 
 ### Task 2: Modifying the MEI document according to the schema that has been created.
