@@ -12,8 +12,8 @@ When converting this piece to Musescore, the program added two extra staves for 
 
 Compare the original and edited versions of the piece here:
 
-<img title="a title" alt="Alt text" src="/data/DawnOriginal.jpg">
-<img title="a title" alt="Alt text" src="/data/DawnFixed.jpg">
+<img title="a title" alt="Alt text" src="data/DawnOriginal.jpg">
+<img title="a title" alt="Alt text" src="data/DawnFixed.jpg">
 
 
 
@@ -29,7 +29,7 @@ Access the exported MusicXML and MEI files here:
 ### Task 2: Rendering the MEI file using Verovio in GitHub.
 Here is a screenshot of my rendered MEI file in Verovio:
 
-<img title="a title" alt="Alt text" src="/data/Verovioweek3.png">
+<img title="a title" alt="Alt text" src="data/Verovioweek3.png">
 
 ## Week 4
 ### Task 1: Generating a jSymbolic analysis of the piece, selecting range, mean pitch, most common pitch class, last pitch, and most common rhythmic value.
