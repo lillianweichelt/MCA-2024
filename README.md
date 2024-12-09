@@ -111,7 +111,7 @@ Here are links to to my rendered metadata and my MEI file:
 [MEI](/data/DawnTranscriptionMEI(2).mei)
 
 ## Week 8
-### Task 1: Identifying and downloading 3 music tracks relating to my theme which are different in their sound and style to my original track and identifying and listing (in a table) the most important technical and non-technical metadata associated with each track. This metadata will include: Title, artist, composer, copyright info, genre, source, file/audio format, number of channels, sample rate, bits per second, and duration.
+### Task 1: Identifying and downloading 3 music tracks relating to my theme which are different in their sound and style to my original track, and identifying and listing the most important technical and non-technical metadata associated with each track. 
 
 Here is a graph comparing the data of my three tracks:
 <img title="a title" alt="Alt text" src="data/Week8.jpg">
