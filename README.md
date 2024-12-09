@@ -58,8 +58,28 @@ Most Common Rhythmic Value: 0.5
 <img title="a title" alt="Alt text" src="data/week4histogram.png">
 
 ## Week 5
-Task 1: Creating a metadata schema of at least 5 elements, including title, artist, publisher, and at least two others of my choice. 
-Task 2: Modifying the MEI document according to the schema that has been created.
+### Task 1: Creating a metadata schema of at least 5 elements, including title, artist, publisher, and at least two others of my choice. 
+Here are my choices of metadata and what exactly they provide information for:
+
+#### Title:
+The name of the piece.
+
+#### Artist: 
+Depending on the piece, who wrote and/or performed the music.
+
+#### Publisher
+Who or what company the piece of music is published by.
+
+#### Subtitle
+Additional information about the piece, usually provided by the composer or an editor.
+
+#### Date
+The specific date the piece was either written or published.
+
+### Task 2: Modifying the MEI document according to the schema that has been created.
+
+Updated MEI document (as of week 7):
+
 
 ## Week 7
 Task 1: Create a second version of your MEI file with the updated metadata, creating genre specifications and licensing data.
