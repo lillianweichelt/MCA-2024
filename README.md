@@ -209,6 +209,13 @@ Generated Similarity Matrixes:
 <img title="a title" alt="Alt text" src="data/matrix2.png">
 
 ### Task 2: Transcribing the original track by converting the WAV file to MIDI using SonicVisualizer.
+For this task, I used the grouplab activity from week two.
+
+## Original edited Version of Beethoven Piano Sonata no. 1:
+<img title="a title" alt="Alt text" src="data/Grouplab.png">
+
+## Recreated version of Beethoven Piano Sonata no. 1:
+<img title="a title" alt="Alt text" src="data/GrouplabSonicVisualizer.png">
 
 
 
