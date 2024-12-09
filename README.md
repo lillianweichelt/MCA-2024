@@ -164,6 +164,13 @@ One advantage to using a spectrogram analysis as opposed to a waveform analysis 
 <img title="a title" alt="Alt text" src="data/sunrisewk9.png">
 
 ### Task 2: Computing and visualizing the raw features with histograms inside of Python.
+#### Histograms computed from Spectrograms
+
+##### Twilight - Denys Kyshchuk
+
+##### Sunrise - DubRahJah
+
+##### Sunrise - DubRahJah
 
 ## Week 10
 Task 1: Generating a similarity matrix using the CSV files from the 3 tracks.
