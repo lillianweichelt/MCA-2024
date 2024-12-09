@@ -28,6 +28,7 @@ Access the exported MusicXML and MEI files here:
 
 ### Task 2: Rendering the MEI file using Verovio in GitHub.
 Here is a screenshot of my rendered MEI file in Verovio:
+
 <img title="a title" alt="Alt text" src="/data/Verovioweek3.png">
 
 ## Week 4
