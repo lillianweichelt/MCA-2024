@@ -48,13 +48,13 @@ Most Common Rhythmic Value: 0.5
 ### Task 2: Using the Python notebook on the Moodle to generate a piano roll, scatter plot, and pitch histogram of my piece using music21. 
 
 #### Piano Roll:
-<img title="a title" alt="Alt text" src="/data/week4spianoroll.png">
+<img title="a title" alt="Alt text" src="data/week4spianoroll.png">
 
 #### Scatter Plot:
-<img title="a title" alt="Alt text" src="/data/week4scatter plot1.png">
+<img title="a title" alt="Alt text" src="data/week4scatter plot1.png">
 
 #### Pitch Histogram:
-![Pitch Histogram](/data/week4histogram.png)
+<img title="a title" alt="Alt text" src="data/week4histogram.png">
 
 ## Week 5
 Task 1: Creating a metadata schema of at least 5 elements, including title, artist, publisher, and at least two others of my choice. 
