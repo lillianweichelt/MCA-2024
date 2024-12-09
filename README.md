@@ -215,7 +215,7 @@ For this task, I used the grouplab activity from week two.
 <img title="a title" alt="Alt text" src="data/Grouplab.png">
 
 ## Recreated version of Beethoven Piano Sonata no. 1:
-<img title="a title" alt="Alt text" src="data/GrouplabSonicVisualizer.png">
+<img title="a title" alt="Alt text" src="data/GrouplabSonicVisualizer.jpg">
 
 
 
