@@ -116,6 +116,11 @@ Here are links to to my rendered metadata and my MEI file:
 Here is a graph comparing the data of my three tracks:
 <img title="a title" alt="Alt text" src="data/Week8.jpg">
 
+
+
+
+
+
 ### Task 2: Performing a basic analysis of my 3 tracks in SonicVisualizer by generating a spectrogram. 
 
 #### Twilight - Denys Kyshchuk
@@ -123,14 +128,20 @@ Here is a graph comparing the data of my three tracks:
 <img title="a title" alt="Alt text" src="data/twilightspect.png">
 
 
+
+
 #### Sunset - Podington Bear
 
 <img title="a title" alt="Alt text" src="data/sunsetspect.png">
 
 
+
+
 #### Sunrise - DubRahJah
 
 <img title="a title" alt="Alt text" src="data/sunrisespect.png">
+
+
 
 ### Task 2.2
 One advantage to using a spectrogram analysis as opposed to a waveform analysis is that it is far more dimensional than a waveform analysis. Spectrograms provide information about the changes of frequencies over time through their vertical lines and changes in amplitude through their colour. Waveforms simply provide visuals for change in amplitude over time. While listening to your audio and looking at a spectrogram simultaneously, you can see where musical motifs occur, and most of the time you can also see where each beat is hitting. This makes spectrograms a far more fruitful source of information about your specific audio than waveforms.
